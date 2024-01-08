@@ -1,0 +1,22 @@
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\bin\Debug\net7.0\Ejemplo C#.exe
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\bin\Debug\net7.0\Ejemplo C#.deps.json
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\bin\Debug\net7.0\Ejemplo C#.runtimeconfig.json
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\bin\Debug\net7.0\Ejemplo C#.dll
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\bin\Debug\net7.0\Ejemplo C#.pdb
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\bin\Debug\net7.0\NetTopologySuite.dll
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\bin\Debug\net7.0\NRedisStack.dll
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\obj\Debug\net7.0\Ejemplo C#.csproj.AssemblyReference.cache
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\obj\Debug\net7.0\Ejemplo C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\obj\Debug\net7.0\Ejemplo C#.AssemblyInfoInputs.cache
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\obj\Debug\net7.0\Ejemplo C#.AssemblyInfo.cs
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\obj\Debug\net7.0\Ejemplo C#.csproj.CoreCompileInputs.cache
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\obj\Debug\net7.0\Ejemplo C#.csproj.CopyComplete
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\obj\Debug\net7.0\Ejemplo C#.dll
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\obj\Debug\net7.0\refint\Ejemplo C#.dll
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\obj\Debug\net7.0\Ejemplo C#.pdb
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\obj\Debug\net7.0\Ejemplo C#.genruntimeconfig.cache
+C:\Trabajo\Unibe\Programación en tiempo real\Repositorio_de_codigos\Ejemplo C#\obj\Debug\net7.0\ref\Ejemplo C#.dll
